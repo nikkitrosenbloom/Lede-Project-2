@@ -18,7 +18,7 @@ var config = {
     title: 'NYC Public Art Installations',
     subtitle: 'How are public art installations distributed across New York City?',
     byline: 'By Nikki Rosenbloom',
-    footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
+    footer: 'Source: NYC Open Data: https://opendata.cityofnewyork.us/. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
             id: 'intro-screen',
